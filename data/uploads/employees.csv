@@ -1,0 +1,11 @@
+employee_id,name,department,role,hire_date,salary_usd,city
+101,Omar Nasser,Engineering,Engineering Head,2019-03-01,145000,Amman
+102,Lina Farouk,Marketing,Marketing Head,2020-06-15,110000,Dubai
+103,Tarek Aziz,Sales,Sales Head,2018-11-20,120000,Cairo
+104,Rima Odeh,Finance,Finance Head,2021-01-10,105000,Nablus
+105,Yara Saleh,Engineering,Backend Developer,2022-04-05,85000,Amman
+106,Khaled Barghouti,Engineering,Frontend Developer,2022-09-12,80000,Nablus
+107,Dina Haddad,Marketing,Content Specialist,2023-02-28,60000,Dubai
+108,Samer Qassem,Sales,Account Executive,2021-07-19,70000,Cairo
+109,Nour Kanaan,Finance,Financial Analyst,2023-05-01,65000,Nablus
+110,Ahmad Rasheed,Engineering,DevOps Engineer,2022-12-01,95000,Amman

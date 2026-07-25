@@ -1,12 +1,25 @@
-fastapi
-uvicorn
-streamlit
+# Data handling & Document Processors
+pandas
+pypdf
+pymupdf
+python-docx
+
+# Web Frameworks & Utilities
 requests
 python-multipart
 python-dotenv
-langchain
-langchain-text-splitters
-langchain-openai
-langchain-community
+streamlit
+uvicorn
+fastapi
+
+# Embeddings & Vector Storage
 faiss-cpu
-pypdf
+sentence-transformers
+openai
+
+# LangChain Ecosystem & Integrations
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+langchain
